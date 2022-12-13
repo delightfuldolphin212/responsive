@@ -15,7 +15,7 @@ export default function ResponsiveRedesign(props) {
       <h2 className="project-title">Responsive Redesign</h2>
       <h6 className="project-date">October 18, 2022</h6>
       <img
-        src={require("./assets/responsive-redesign/header.png")}
+        src={require("./assets/responsive-redesign/header.jpg")}
         alt="Original site"
         className="header-video"
       />
@@ -67,19 +67,19 @@ export default function ResponsiveRedesign(props) {
       </h6>
       <h2 className="project-title">Low Fidelity Prototypes</h2>
       <img
-        src={require("./assets/responsive-redesign/lowfi.png")}
+        src={require("./assets/responsive-redesign/lowfi.jpg")}
         alt="Low fidelity prototypes"
         className="header-video"
       />
       <h2 className="project-title">Visual Design Style Guide</h2>
       <img
-        src={require("./assets/responsive-redesign/style-guide.png")}
+        src={require("./assets/responsive-redesign/style-guide.jpg")}
         alt="Low fidelity prototypes"
         className="header-video"
       />
       <h2 className="project-title">High Fidelity Prototypes</h2>
       <img
-        src={require("./assets/responsive-redesign/highfi.png")}
+        src={require("./assets/responsive-redesign/highfi.jpg")}
         alt="High fidelity prototypes"
         className="header-video"
       />
